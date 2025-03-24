@@ -2,7 +2,7 @@
 
 > Passionate Fullstack Developer | Laravel, Vue.js & Beyond 🚀
 
-[![Profile Views](https://komarev.com/ghpvc/?username=rarhoudane&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/rarhoudane)
+[![Profile Views](https://komarev.com/ghpvc/?username=rarhoudane&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/rachid-ait-rhoudane)
 
 ## 👨‍💻 About Me
 
