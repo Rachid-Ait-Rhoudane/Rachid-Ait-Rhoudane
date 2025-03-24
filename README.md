@@ -8,7 +8,7 @@
 
 - 💡 Fullstack Developer specializing in **Laravel, Vue.js, React, Node.js & Remix**
 - 🔭 Building scalable web applications & exploring **Shopify app development**
-- 🛠 Currently working with **Laravel, Vue.js, Inertia.js & Angular**
+- 🛠 Currently working with **Laravel, Vue.js, React.js, Inertia.js, Node.js and Remix.js**
 - 💬 Ask me about **modern web development, APIs, and cloud deployment**
 - 📫 Reach me at **rachid2aitrhoudane@gmail.com**
 
