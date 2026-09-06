@@ -15,11 +15,11 @@
   </tr>
   <tr>
     <td>
-      <a href="https://linkedin.com/in/rachid-ait-rhoudane-52841b33b">
+      <a href="https://linkedin.com/in/rachid-ait-rhoudane">
         <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
       </a>
     </td>
-    <td><code>linkedin.com/in/rachid-ait-rhoudane-52841b33b</code></td>
+    <td><code>linkedin.com/in/rachid-ait-rhoudane</code></td>
   </tr>
   <tr>
     <td>
@@ -54,7 +54,7 @@
   </tr>
 </table>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rachid-Ait-Rhoudane&theme=github-compact&hide_border=true&area=true" alt="Rachid's GitHub activity graph" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rachid-Ait-Rhoudane&theme=transparent" alt="Rachid's GitHub profile summary" />
 
 ---
 
